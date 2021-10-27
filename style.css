@@ -1,0 +1,21 @@
+
+  .title {
+    font-family: italic;
+ }
+ #my-name {
+    color: red;
+  }
+  button:hover {
+    background-color: orange;
+    color: white;
+    border: 1px solid black;
+  }
+  div {
+    color: blue;
+    }
+    .green-text-div {
+      color: green
+    }
+    #container {
+      color: orange
+    }
